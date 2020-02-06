@@ -6,9 +6,9 @@
 - [About](#about)
 - [Quick start](#quick-start)
 - [Documentation](#documentation)
-- [Contributing](#contributing)
-- [What's new](#whats-new)
-- [Citing Calliope](#citing-calliope)
+// - [Contributing](#contributing)
+//- [What's new](#whats-new)
+- [Citing OSeMOSYS-CR](#citing-osemosys-cr)
 - [License](#license)
 
 # About 
