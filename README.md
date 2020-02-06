@@ -40,7 +40,7 @@ In order to run the model, the following files are needed:
 
 * Osemosys_data_Output_CODED:** is one of the output files of 2_run_model_mathprog.py. Contains the results of the scenario in a wide format csv file with coded names for the fuels, technologies and emissions of the model. 
 
-# Docuentation
+# Documentation
 
 Documentation is available on Read the Docs:
 
